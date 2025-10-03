@@ -1,9 +1,9 @@
 [
-    {
+  {
     "id": -2,
-    "name": "[!] gn-math",
-    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMzEkaAN0BJ2o3ri2IsQRKXVk6ejQQqz0GUg&s",
-    "url": "https://github.com/gn-math"
+    "name": "[!] gn-math Discord",
+    "cover": "{COVER_URL}/dc.png",
+    "url": "https://discord.gg/D4c9VFYWyU"
   },
   {
     "id": -1,
@@ -1346,6 +1346,7 @@
     "url": "{HTML_URL}/166.html",
     "author": "98corbins",
     "authorLink": "https://98corbins.netlify.app",
+    "featured": true
   },
   {
     "id": 167,
@@ -1746,6 +1747,7 @@
     "url": "{HTML_URL}/217-c.html",
     "author": "Dennaton Games",
     "authorLink": "https://store.steampowered.com/app/219150/Hotline_Miami/",
+    "featured": true
   },
   {
     "id": 218,
@@ -2028,6 +2030,15 @@
     "authorLink": "http://www.pegasgames.com"
   },
   {
+    "id": 253,
+    "name": "Chat Bot (A.|.I)",
+    "cover": "{COVER_URL}/253.png",
+    "url": "{HTML_URL}/253.html",
+    "author": "gn-math",
+    "authorLink": "https://gn-math.github.io",
+    "featured": true
+  },
+  {
     "id": 255,
     "name": "Crazy Chicken 3D",
     "cover": "{COVER_URL}/255.png",
@@ -2066,6 +2077,7 @@
     "url": "{HTML_URL}/259.html",
     "author": "sbn3",
     "authorLink": "https://sbn3.com",
+    "featured": true
   },
   {
     "id": 260,
@@ -2100,6 +2112,7 @@
     "url": "{HTML_URL}/263.html",
     "author": "Id Software",
     "authorLink": "https://www.idsoftware.com/en",
+    "featured": true
   },
   {
     "id": 264,
@@ -2124,6 +2137,7 @@
     "url": "{HTML_URL}/266.html",
     "author": "Luke Doukakis",
     "authorLink": "https://store.steampowered.com/app/1482700/Speed_Stars/",
+    "featured": true
   },
   {
     "id": 267,
@@ -2645,6 +2659,7 @@
     "url": "{HTML_URL}/331.html",
     "author": "No Pressure Studios",
     "authorLink": "https://www.nopressurestudios.com",
+    "featured": true
   },
   {
     "id": 332,
@@ -3381,6 +3396,7 @@
     "url": "{HTML_URL}/423.html",
     "author": "LameDev",
     "authorLink": "https://store.steampowered.com/app/3146520/WEBFISHING/",
+    "featured": true
   },
   {
     "id": 426,
@@ -3446,6 +3462,7 @@
     "url": "{HTML_URL}/433.html",
     "author": "kikiyama",
     "authorLink": "https://store.steampowered.com/app/650700/Yume_Nikki/",
+    "featured": true
   },
   {
     "id": 434,
@@ -4400,5 +4417,21 @@
     "url": "{HTML_URL}/551.html",
     "author": "VobbyGames, weirdnessworld",
     "authorLink": "https://play.google.com/store/apps/details?id=com.Hypper&hl=en_US" 
+  },
+  {
+    "id": 552,
+    "name": "Aviamasters",
+    "cover": "{COVER_URL}/552.png",
+    "url": "{HTML_URL}/552.html",
+    "author": "BGaming",
+    "authorLink": "https://bgaming.com/games/aviamasters" 
+  },
+  {
+    "id": 553,
+    "name": "Rolling Sky",
+    "cover": "{COVER_URL}/553.png",
+    "url": "{HTML_URL}/553.html",
+    "author": "Dream Playz",
+    "authorLink": "https://play.google.com/store/apps/details?id=com.dreamplayz.rollingball&hl=en_US" 
   }
 ]
